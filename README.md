@@ -1,5 +1,7 @@
 # Yahoo Finance to Google Sheets connector
 
+There are two options (one to get the data from the HTML page - Code.gs, and another - to get the data from the Yahoo Finance JSON export which is twice as fast - CodeJSON.gs)
+
 ## Set up
 From Services - add Google Sheets service
 
